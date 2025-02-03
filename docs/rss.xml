@@ -18,7 +18,7 @@
 
 <h1>The Snowing Hills Where Olive Trees Wither</h1>
 
-<p><img src="../pics/olivetrees.png" alt="Where Olive Trees Olives Wither"  style="width:100%;height:auto;max-width:800px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/olivetrees.png" alt="Where Olive Trees Olives Wither"  style="width:100%;height:auto;max-width:800px" /></p>
 
 <p>Blasphemous is just one of those games that I couldn&rsquo;t help but to play.
 It&rsquo;s a Metroidvania set in a realm called Cvstodia.
@@ -27,7 +27,7 @@ I have always enjoyed playing 2D adventure games since I was a kid so Blasphemou
 
 <h2>Blasphemous</h2>
 
-<p><img src="../pics/silentsorrow.png" alt="Brohtherhood of the silent sorrow"  style="width:100%;height:auto;max-width:800px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/silentsorrow.png" alt="Brohtherhood of the silent sorrow"  style="width:100%;height:auto;max-width:800px" /></p>
 
 <p>The game takes place in Cvstodia.
 &ldquo;The Miracle&rdquo; is a force existing in Cvstodia, Transforming everyone into grieving being by
@@ -42,7 +42,7 @@ humiliations.</p>
 
 <h2>Themes</h2>
 
-<p><img src="../pics/convent.png" alt="Convent of Our Lady of The Charred Visage"  style="width:100%;height:auto;max-width:800px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/convent.png" alt="Convent of Our Lady of The Charred Visage"  style="width:100%;height:auto;max-width:800px" /></p>
 
 <p>The game explores a grim universe where everyone is at the mercy of
 a seemingly evil force, called the Miracle. Almost all of the residents of Cvstodia
@@ -74,7 +74,7 @@ for a game with this theme and also helps in creating an amazing atmosphere.</p>
 
 <h2>What I Loved</h2>
 
-<p><img src="../pics/isidora.png" alt="Isidora"  style="width:100%;height:auto;max-width:800px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/isidora.png" alt="Isidora"  style="width:100%;height:auto;max-width:800px" /></p>
 
 <p>Everything.</p>
 
@@ -105,7 +105,7 @@ I&rsquo;ve decided to call it Noam, after one of the great minds of our generati
 For now I&rsquo;ll focus on the sub-problem of verifying Finite Automate, and hopefully adjust to better capture more automatas.</p>
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/NoamLogo.png" alt="Noam Logo"  style="width:100%;height:auto;max-width:700px" />
+<img src="https://xemadp.github.io/blog/pics/NoamLogo.png" alt="Noam Logo"  style="width:100%;height:auto;max-width:700px" />
 </p></p>
 
 <p>I feel like I should say this, Noam is just a personal project meant to help me learn about [programming] languages, formal verification and compilers.
@@ -185,7 +185,7 @@ The lex.l file is parsed by flex, and will give us a C program lex.yy.c, which w
 <p>Let&rsquo;s Create a lexer for <a href="https://xemadp.github.io/blog/entries/compilerI.html">The Noam grammar</a> using flex.</p>
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/noamflexI.png" alt="Noam Lexer with flex"  style="width:100%;height:auto;max-width:800px" />
+<img src="https://xemadp.github.io/blog/pics/noamflexI.png" alt="Noam Lexer with flex"  style="width:100%;height:auto;max-width:800px" />
 </p></p>
 
 <p>Apart from the lexeme kinds ( keywords, IDENTIFIERS, Literals, &hellip; ) it&rsquo;s also good to save some other info such as number of the line the token is found at, character line and etc,
@@ -255,7 +255,7 @@ By running flex on this lex.l file, and then compiling it&rsquo;s output using g
 <p>The following figure shows how the lexer works in relation to parser and the source program.</p>
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/noamflexII.png" alt="Overall Lexer mechanism"  style="width:100%;height:auto;max-width:800px" />
+<img src="https://xemadp.github.io/blog/pics/noamflexII.png" alt="Overall Lexer mechanism"  style="width:100%;height:auto;max-width:800px" />
 </p></p>
 
 <p>example source program :</p>
@@ -465,7 +465,7 @@ And the output produced by noam-lexer is:</p>
 </code></pre>
 <h1 align="center"> THANKS FOR READING </h1>
 <p align="center" style="line-height:1.5">
-<img src="../pics/wiz.jpg" alt="wiz"  style="width:100%;height:auto;max-width:360px" />
+<img src="https://xemadp.github.io/blog/pics/wiz.jpg" alt="wiz"  style="width:100%;height:auto;max-width:360px" />
 </p></p>
 
 <p align="center">
@@ -496,7 +496,7 @@ The basic Idea is that, Given a set of Automata Declarations and a set of statem
 prove or disprove the verification statements.</p>
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/workhard.png" alt="Compass"  style="width:100%;height:auto;max-width:600px" />
+<img src="https://xemadp.github.io/blog/pics/workhard.png" alt="Compass"  style="width:100%;height:auto;max-width:600px" />
 </p></p>
 
 <p>Here is how a source program would look like within the specification of this language:</p>
@@ -568,7 +568,7 @@ I don&rsquo;t want to think too much about the specification and usage too much 
 if it would be designed to perform euclidean construction only?</p>
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/compass.png" alt="Compass"  style="width:100%;height:auto;max-width:900px" />
+<img src="https://xemadp.github.io/blog/pics/compass.png" alt="Compass"  style="width:100%;height:auto;max-width:900px" />
 </p></p>
 
 <p>The programming language would be assumed to only have a &ldquo;Straightedge&rdquo; and a &ldquo;Compass&rdquo;, and try to reason about certain input streams ( programs ).
@@ -689,7 +689,7 @@ I finally made the decision to write about <em>Perfect Blue</em> when I was disc
 So thanks! You who shall remain anonymous.</p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/perfectblue.jpg" alt="Perfect Blue"  style="width:100%;height:auto;max-width:350px" />
+<img src="https://xemadp.github.io/blog/pics/perfectblue.jpg" alt="Perfect Blue"  style="width:100%;height:auto;max-width:350px" />
 </p></p>
 
 <p>The works of Satoshi Kon have always left me mesmerised.
@@ -705,13 +705,13 @@ I&rsquo;ll try to convey what I understood of the plot and the underlying themes
 <p><strong>DISCLAIMER: Reader discretion is advised! Included are themes of gore, rape, paranoia, stalking and identity dysphoria! Also, Spoiler alert obviously</strong></p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/mimagrocery.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/mimagrocery.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
 </p></p>
 
 <h1>Characters</h1>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/mimarumi.jpg" alt="Mima and Rumi"  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/mimarumi.jpg" alt="Mima and Rumi"  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 Mima &amp; Rumi
@@ -726,7 +726,7 @@ Mima &amp; Rumi
 
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/memania.jpg" alt="Me-Mania"  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/memania.jpg" alt="Me-Mania"  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 Me-Mania
@@ -740,7 +740,7 @@ Me-Mania
 <h1>Metamorphosis</h1>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/CHAM.jpg" alt="CHAM!"  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/CHAM.jpg" alt="CHAM!"  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 CHAM!
@@ -765,7 +765,7 @@ She receives a weird phone call and at the same time she get&rsquo;s a fax with 
 <h1>Double Bind</h1>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/actressmima.jpg" alt="Mima the actress"  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/actressmima.jpg" alt="Mima the actress"  style="width:100%;height:auto;max-width:500px" />
 </p></p>
 
 <p>She goes on set to act her line in the television series <em>Double Bind</em>.
@@ -780,8 +780,8 @@ She see&rsquo;s a newspaper article that says the ruckus makers of the concert a
 She starts seeing Me-Mania as a symbol for violence.</p>
 
 <p><p align="center" style="line-height:0.1">
-<img src="../pics/mimasroom.jpg" alt="Mima's room"  style="width:100%;height:auto;max-width:500px" />
-<img src="../pics/devastated.jpg" alt="Tired"  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/mimasroom.jpg" alt="Mima's room"  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/devastated.jpg" alt="Tired"  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 Mima&rsquo;s Room
@@ -796,7 +796,7 @@ devastating.
 Rumi opposes this harshly but Mima decides that she has chosen to be an actress and that she should do this scene.</p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/unwanted.jpg" alt=""  style="width:100%;height:auto;max-width:640px" />
+<img src="https://xemadp.github.io/blog/pics/unwanted.jpg" alt=""  style="width:100%;height:auto;max-width:640px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 How did it get to this&hellip;
@@ -811,8 +811,8 @@ This is the first time in the movie that we start seeing the image of <em>Idol M
 surfaces. Mima see&rsquo;s an image, Idol Mima, degrading Mima for doing the scene. She is conflicted.</p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/deadfish.jpg" alt="Dead fish"  style="width:100%;height:auto;max-width:500px" />
-<img src="../pics/idolmima.jpg" alt="Idol Mima"  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/deadfish.jpg" alt="Dead fish"  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/idolmima.jpg" alt="Idol Mima"  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 She didn&rsquo;t want to do it either.
@@ -824,7 +824,7 @@ I think this is foreshadowing the idea that Me-Mania is somehow being deceived t
 true and is forced by outer knowledge to do stuff.</p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/puppet.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/puppet.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
 </p></p>
 
 <p>Idol Mima is appearing more as we progress, talking to Mima and trying to degrade her and tell her that she is
@@ -839,7 +839,7 @@ And That concludes the <em>Double Blind</em> segment.</p>
 <h1>Divergent Reflections</h1>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/concernedmima.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/concernedmima.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
 </p></p>
 
 <p>Mima see&rsquo;s Idol Mima again and her paranoia grows even more when she hears of the screenwriters death.
@@ -849,8 +849,8 @@ off as an Idol. It&rsquo;s apparent at this point in the movie that Idol Mima is
 Mima as a result of deception from Mima&rsquo;s room and her own conflict with her identity.</p>
 
 <p><p align="center" style="line-height:0.1">
-<img src="../pics/mimaref1.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
-<img src="../pics/mimaref2.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/mimaref1.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/mimaref2.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 Divergent Reflections
@@ -864,7 +864,7 @@ with someone to act bizarrely, at this point it&rsquo;s known who was behind all
 Radicalized by the para-social relationship that he has developed with his favorite icon.</p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/parasocialrelationship.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/parasocialrelationship.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 Idol Mima Hugging Me-Mania
@@ -881,7 +881,7 @@ In the next visit by Rumi, Mima seems completely cut off, breaking tea cups, to 
 The only way that she can tell if she did something or not, is by reading the posts on Mima&rsquo;s Room.</p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/lostmima.jpg" alt=""  style="width:100%;height:auto;max-width:640px" />
+<img src="https://xemadp.github.io/blog/pics/lostmima.jpg" alt=""  style="width:100%;height:auto;max-width:640px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 I guess&hellip; I went to Harajuku today&hellip;
@@ -901,7 +901,7 @@ but something is off, the fish are alive, the CHAM poster is up and her house ha
 Idol Mima greets her in a new red dress. Mima finds out that this image of Idol Mima is actually Rumi. It was her all along who pretended to be the Real Idol Mima.</p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/doublebind.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/doublebind.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 Rumi is Idol Mima.
@@ -912,8 +912,8 @@ The film ends with Rumi in a mental hospital , rarely getting out of the Idol Mi
 Mima has found her identity as an actress and is no longer haunted by the images of Idol Mima.</p>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/rumi.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
-<img src="../pics/realmima.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/rumi.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
+<img src="https://xemadp.github.io/blog/pics/realmima.jpg" alt=""  style="width:100%;height:auto;max-width:500px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 Shattered Mirrors.
@@ -925,7 +925,7 @@ Shattered Mirrors.
 <h2>Epitaph</h2>
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/found.jpg" alt=""  style="width:100%;height:auto;max-width:720px" />
+<img src="https://xemadp.github.io/blog/pics/found.jpg" alt=""  style="width:100%;height:auto;max-width:720px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 No, I&rsquo;m real!
@@ -989,7 +989,7 @@ I had become disappointed in regards to learning Romance languages
 after all, until my ambition for learning The Latin Language™
 prompted me to start again.</p>
 
-<p><img src="../pics/quasimodo.gif" alt="Quasimodo"  style="width:100%;height:auto;max-width:310px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/quasimodo.gif" alt="Quasimodo"  style="width:100%;height:auto;max-width:310px" /></p>
 
 <p>I&rsquo;ve decided to learn Italian by the Michel Thomas method this time
 because my ultimate goal is to learn Latin and I feel like Italian
@@ -1000,7 +1000,7 @@ would be a better gateway language to Latin.</p>
 <hr>
 
 
-<p><img src="../pics/romanpepe.png" alt="Roman Pepe"  style="width:100%;height:auto;max-width:550px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/romanpepe.png" alt="Roman Pepe"  style="width:100%;height:auto;max-width:550px" /></p>
 
 <p>I plan to write extensively about why Latin is worth
 learning on my blog, so I will not elaborate too much here.
@@ -1027,7 +1027,7 @@ subject.</p>
 <hr>
 
 
-<p><img src="../pics/italianpepe.png" alt="Italian Pepe"  style="width:100%;height:auto;max-width:420px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/italianpepe.png" alt="Italian Pepe"  style="width:100%;height:auto;max-width:420px" /></p>
 
 <p>Learning any romance language can be easy
 if you already know English since many
@@ -1091,7 +1091,7 @@ for me and I hope it stays that way.</p>
 days. Big companies and law firms use this definition to set rules
 that are totally disrespectful of the rights of ordinary people.</p>
 
-<p><img src="../pics/copyleft.jpg" alt="" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/copyleft.jpg" alt="" /></p>
 
 <p>The term IP implies that, that particular thing, be it a digital version
 of a song, a movie, or a piece of software is in fact some sort of PROPERTY, when Europeans came
@@ -1200,7 +1200,7 @@ for the transformations of these laws and definitions themselves.</p>
 <h1>Paradoxical Desires</h1>
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/strength.jpg" alt="Strength"  style="width:100%;height:auto;max-width:400px" />
+<img src="https://xemadp.github.io/blog/pics/strength.jpg" alt="Strength"  style="width:100%;height:auto;max-width:400px" />
 </p></p>
 
 <p>It&rsquo;s weird, the desire or rather the need to be liked is part of our evolutionary
@@ -1252,7 +1252,7 @@ Hope you enjoy reading what is brought into being by my brain at 2:30 AM on a Fr
 <h1>Good Times, Bad Times, Hopeful Future</h1>
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/punkisnotded.jpg" alt="Punk Is Not Ded, Persepolis"  style="width:100%;height:auto;max-width:900px" />
+<img src="https://xemadp.github.io/blog/pics/punkisnotded.jpg" alt="Punk Is Not Ded, Persepolis"  style="width:100%;height:auto;max-width:900px" />
 </p></p>
 
 <p>The protests in Iran are ongoing, Exactly when I start feeling like the protest are dying out, partially because I have very
@@ -1263,7 +1263,7 @@ I hear news more infuriating, more indicating of the regimes last resorts.</p>
 
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/dieayatollah.jpg" alt="Die Ayatollah!"  style="width:100%;height:auto;max-width:400px" />
+<img src="https://xemadp.github.io/blog/pics/dieayatollah.jpg" alt="Die Ayatollah!"  style="width:100%;height:auto;max-width:400px" />
 </p></p>
 
 <p>I wrote the above paragraph about 20 days ago and left the rest as a draft, I planned on reporting(!) on stuff that has happened
@@ -1276,7 +1276,7 @@ Too many teenagers and young adults lost their life in recent protests over thei
 Too many to count, and quite honestly it makes my blood boil.
 <hr>
 <p align="center" style="line-height:0.2">
-<img src="../pics/curbed.jpg" alt="Connection Failed!"  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/curbed.jpg" alt="Connection Failed!"  style="width:100%;height:auto;max-width:300px" />
 </p>
 <p align="center" style="line-height:0.9;font-size:12px">
 Connection Failed!
@@ -1293,9 +1293,9 @@ you can imagine to censor when a revolution is going on.</p>
 <hr>
 
 
-<p><img src="../pics/zahedan1.jpg" alt=""  style="width:100%;height:auto;max-width:200px" />
-<img src="../pics/zahedan2.jpg" alt=""  style="width:100%;height:auto;max-width:200px" />
-<img src="../pics/zahedan3.jpg" alt=""  style="width:100%;height:auto;max-width:200px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/zahedan1.jpg" alt=""  style="width:100%;height:auto;max-width:200px" />
+<img src="https://xemadp.github.io/blog/pics/zahedan2.jpg" alt=""  style="width:100%;height:auto;max-width:200px" />
+<img src="https://xemadp.github.io/blog/pics/zahedan3.jpg" alt=""  style="width:100%;height:auto;max-width:200px" /></p>
 
 <p>The most innocent of the people that have been killed and brutally dealt with, are people from Zahedan, having 90 people die
 in one day, even though they were just exiting a mosque on a Friday noon after typical Friday prayers. Allegedly,
@@ -1307,7 +1307,7 @@ in Islamic Republic Attacking them using military grade weaponry causing at leas
 
 
 <p><p align="center" style="line-height:0.2">
-<img src="../pics/40days.jpg" alt="People Marching Towards Mahsa Amini's Grave"  style="width:100%;height:auto;max-width:360px" />
+<img src="https://xemadp.github.io/blog/pics/40days.jpg" alt="People Marching Towards Mahsa Amini's Grave"  style="width:100%;height:auto;max-width:360px" />
 </p>
 <p align="center" style="line-height:0.9;font-size:12px">
 People Marching Towards Mahsa Amini&rsquo;s Grave
@@ -1324,8 +1324,8 @@ death on the 40th day of her murder.</p>
 
 
 <p><p align="center" style="line-height:0.1">
-<img src="../pics/thestreetsarehers.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
-<img src="../pics/newgovernor.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
+<img src="https://xemadp.github.io/blog/pics/thestreetsarehers.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
+<img src="https://xemadp.github.io/blog/pics/newgovernor.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 The Streets are hers(left), The new Governor of Mahabad(right)
@@ -1341,9 +1341,9 @@ the regime&rsquo;s dogs killed a man for innocently protesting, the number of pe
 they actually managed to take over the governorate<em> and other important government buildings in Mahabad.
 <hr>
 <p align="center" style="line-height:0.1">
-<img src="../pics/uni2.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
-<img src="../pics/uni5.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
-<img src="../pics/uni4.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
+<img src="https://xemadp.github.io/blog/pics/uni2.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
+<img src="https://xemadp.github.io/blog/pics/uni5.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
+<img src="https://xemadp.github.io/blog/pics/uni4.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 A tale in 3 images: Basijis blocking the doors to the main dining hall(1), Students eating their food outside, men and women together(2), the same basijis</em> crying after seeing they couldn&rsquo;t seperate them(3)
@@ -1361,15 +1361,15 @@ a move as opposing a race apartheid(IMO). Many university students have been sus
 now they&rsquo;ve started raiding dormitories and dragging students out and to the detention centers where they brutally interrogate
 them and confiscate all of their electronics to inspect.
 <p align="center" style="line-height:0.1">
-<img src="../pics/uni3.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
-<img src="../pics/uni1.jpg" alt=""  style="width:100%;height:auto;max-width:310px" />
+<img src="https://xemadp.github.io/blog/pics/uni3.jpg" alt=""  style="width:100%;height:auto;max-width:260px" />
+<img src="https://xemadp.github.io/blog/pics/uni1.jpg" alt=""  style="width:100%;height:auto;max-width:310px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 University students of Noshirvani Babol University holding hands in solidarity(left), Savage of a basiji shooting at students in Tehran North Azad University(right)
 </p>
 <hr>
 <p align="center" style="line-height:0.1">
-<img src="../pics/jadi.jpg" alt=""  style="width:100%;height:auto;max-width:460px" />
+<img src="https://xemadp.github.io/blog/pics/jadi.jpg" alt=""  style="width:100%;height:auto;max-width:460px" />
 </p>
 <p align="center" style="line-height:1.1;font-size:12px">
 Jadi has been in detention for over 27 days (by now : 31 Oct) without doing anything illegal
@@ -1385,8 +1385,8 @@ Having said all of that I left a lot of unsaid things, I didn&rsquo;t write abou
 wrongfully but I suppose I was able to convey my overall feeling. Living through what seems to be a revolution is sure weird
 specially the part where you can&rsquo;t actually believe it&rsquo;s happening.</p>
 
-<p><img src="../pics/defiant.jpg" alt=""  style="width:100%;height:auto;max-width:245px" />
-<img src="../pics/freeiran.jpg" alt=""  style="width:100%;height:auto;max-width:360px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/defiant.jpg" alt=""  style="width:100%;height:auto;max-width:245px" />
+<img src="https://xemadp.github.io/blog/pics/freeiran.jpg" alt=""  style="width:100%;height:auto;max-width:360px" /></p>
 
 <p style="line-height:1.1;font-size:12px">
  -- P.S + Glossary --
@@ -1460,9 +1460,9 @@ A lot of University Professors have gone on strike and a lot of students also re
 <p>I hope for a future where stating the truth and
 fighting for human rights is not considered a crime in my country.</p>
 
-<p><img src="../pics/rev1.jpg" alt=""  style="width:100%;height:auto;max-width:190px" />
-<img src="../pics/rev2.jpg" alt=""  style="width:100%;height:auto;max-width:190px" />
-<img src="../pics/tehran.jpg" alt=""  style="width:100%;height:auto;max-width:190px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/rev1.jpg" alt=""  style="width:100%;height:auto;max-width:190px" />
+<img src="https://xemadp.github.io/blog/pics/rev2.jpg" alt=""  style="width:100%;height:auto;max-width:190px" />
+<img src="https://xemadp.github.io/blog/pics/tehran.jpg" alt=""  style="width:100%;height:auto;max-width:190px" /></p>
 ]]></description>
 </item>
 <item>
@@ -1488,7 +1488,7 @@ I was busy with signing up and getting my dormitory permit sorted out.
 Last Friday ( 30th of September 2022 ) I came here to Tehran to settle in
 My dormitory room.</p>
 
-<p><img src="../pics/kntu.png" alt="" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/kntu.png" alt="" /></p>
 
 <p>Dorm life was strange the first few days, but I feel like I&rsquo;m habituating quick enough.
 Getting the hang of where everything is was the hard part, obviously moving in with
@@ -1541,7 +1541,7 @@ what I had in mind. Afterwards it was pretty standard DALLE experience so I deci
 
 
 <p><p align="center" style="line-height:1.5">
-<img src="../pics/celldivision.png" alt=""  style="width:100%;height:auto;max-width:350px" />
+<img src="https://xemadp.github.io/blog/pics/celldivision.png" alt=""  style="width:100%;height:auto;max-width:350px" />
 <br>
 Ornate Persian Miniature depicting Cell Division
 </p></p>
@@ -1550,12 +1550,12 @@ Ornate Persian Miniature depicting Cell Division
 
 
 <p><p align="center" style="line-height:0;margin:5px">
-<img src="../pics/scream1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/scream2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/scream1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/scream2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p>
 <p align="center" style="line-height:0.0001;margin:0px">
-<img src="../pics/scream3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/scream4.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/scream3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/scream4.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p></p>
 
 <p align="center" style="line-height:1.2">
@@ -1567,12 +1567,12 @@ Ornate Persian Miniature depicting Cell Division
 
 
 <p><p align="center" style="line-height:0;margin:5px">
-<img src="../pics/cyborg1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/cyborg2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/cyborg1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/cyborg2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p>
 <p align="center" style="line-height:0.0001;margin:0px">
-<img src="../pics/cyborg3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/cyborg4.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/cyborg3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/cyborg4.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p></p>
 
 <p align="center" style="line-height:1.2">
@@ -1584,12 +1584,12 @@ Ornate Persian Miniature depicting a Persian Cyborg tinkerer with robotic limbs
 
 
 <p><p align="center" style="line-height:0;margin:5px">
-<img src="../pics/city1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/city2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/city1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/city2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p>
 <p align="center" style="line-height:0.0001;margin:0px">
-<img src="../pics/city3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/city4.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/city3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/city4.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p></p>
 
 <p align="center" style="line-height:1.2">
@@ -1601,9 +1601,9 @@ Ornate Persian Miniature depicting A megacity with nuclear power plants  surroun
 
 
 <p><p align="center" style="line-height:0;margin:5px">
-<img src="../pics/mcd1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/mcd2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/mcd3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/mcd1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/mcd2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/mcd3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p></p>
 
 <p align="center" style="line-height:1.2">
@@ -1615,8 +1615,8 @@ Ornate Persian Miniature depicting a McDonalds sign
 
 
 <p><p align="center" style="line-height:0;margin:5px">
-<img src="../pics/doom1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/doom2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/doom1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/doom2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p></p>
 
 <p align="center" style="line-height:1.2">
@@ -1628,8 +1628,8 @@ MF DOOM performing on stage with a Cyborg Samurai
 
 
 <p><p align="center" style="line-height:0;margin:5px">
-<img src="../pics/hacker1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/hacker2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/hacker1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/hacker2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p></p>
 
 <p align="center" style="line-height:1.2">
@@ -1643,12 +1643,12 @@ Old Persian Man as a hacker behind a computer, Artstation, Studio
 <p>I got some really unexpected results from a couple of prompts so  I&rsquo;m not even gonna write the prompts here, just let your imagination go wild with these ones:</p>
 
 <p><p align="center" style="line-height:0;margin:5px">
-<img src="../pics/unknown1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/unknown2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/unknown1.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/unknown2.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p>
 <p align="center" style="line-height:0.0001;margin:0px">
-<img src="../pics/unknown3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
-<img src="../pics/unknown4.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/unknown3.png" alt=""  style="width:100%;height:auto;max-width:300px" />
+<img src="https://xemadp.github.io/blog/pics/unknown4.png" alt=""  style="width:100%;height:auto;max-width:300px" />
 </p></p>
 
 <hr>
@@ -1703,7 +1703,7 @@ on promising unreal results and also boasted a lot about some mysterious learnin
 has been in the dark for the longest time and has educated lots and lots of Wealthy Actors and
 Senators, but since the entire Spanish course was about 8 hours I decided to give it a try.</p>
 
-<p><img src="../pics/waltespanol.jpg" alt=""  style="width:100%;height:auto;max-width:720px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/waltespanol.jpg" alt=""  style="width:100%;height:auto;max-width:720px" /></p>
 
 <p>And I was so wrong about my conception of what <em>The Michel Thomas Experience™</em> was going to be
 like. The tapes are basically Michel Thomas, and two students in a room together. Michel teaches
@@ -1761,7 +1761,7 @@ make &amp;&amp; make install
 </code></pre>
 It will install NetHack to ~/nh/install/games/nethack . You can just add it to your path and enjoy good old NetHack!</p>
 
-<p><img src="../pics/nethack.png" alt=""  style="width:100%;height:auto;max-width:1100px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/nethack.png" alt=""  style="width:100%;height:auto;max-width:1100px" /></p>
 ]]></description>
 </item>
 <item>
@@ -1785,8 +1785,8 @@ It will install NetHack to ~/nh/install/games/nethack . You can just add it to y
 <p>I don&rsquo;t exactly remember the date I first heard of a linux distro, It must&rsquo;ve been in 2014~ish because I remember getting a cd-pack of ubuntu+kubuntu, bringing it home and installing it.
 Now, At the time I was very young and didn&rsquo;t know anything about Operating Systems.one of My uncles taught me the basic concept of Operating systems and that sparked me to try out diffrent operating systems because the idea of more Operating Systems existing was quite exciting to me.Although I was excited, I was quite young and so I Ended up not understanding anything and going back to Windows.</p>
 
-<p><img src="../pics/ubuntu1.jpg" alt=""  style="width:100%;height:auto;max-width:640px" />
-<img src="../pics/ubuntu2.jpg" alt=""  style="width:100%;height:auto;max-width:240px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/ubuntu1.jpg" alt=""  style="width:100%;height:auto;max-width:640px" />
+<img src="https://xemadp.github.io/blog/pics/ubuntu2.jpg" alt=""  style="width:100%;height:auto;max-width:240px" /></p>
 
 <p>Fast forward a couple of years later in January 2019, I had gotten more into programming and read a lot about the GNU project and I decided to give it another shot.
 This time I downloaded The Linux Mint ISO and booted it onto a flash drive and installed it properly.I used Mint for about 6 month and at times I would feel frustrated because of the dependance I had to Windows.It would be hard to do things in GNU/Linux But at the same time it felt very liberating in the sense that it required me to only learn the basics of the system, for it to be much more elegant and faster than Windows and what it could ever offer, I Immediately made up my mind about using Linux and never going back to Windows ever again.
@@ -1794,7 +1794,7 @@ This was ofcource before I learned the True power of Linux, The Terminal.After s
 
 <h3>Down the rabbithole</h3>
 
-<p><img src="../pics/spiral.jpg" alt=""  style="width:100%;height:auto;max-width:350px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/spiral.jpg" alt=""  style="width:100%;height:auto;max-width:350px" /></p>
 
 <p><em>Sliding Down The Rabbit Hole</em></p>
 
@@ -1802,13 +1802,13 @@ This was ofcource before I learned the True power of Linux, The Terminal.After s
 
 <h3>Arch</h3>
 
-<p><img src="../pics/arch.jpg" alt=""  style="width:100%;height:auto;max-width:400px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/arch.jpg" alt=""  style="width:100%;height:auto;max-width:400px" /></p>
 
 <p><em>In Case You Were Wondering</em></p>
 
 <p>Installing arch linux was One of the harder obstacles I hit in my Linux  journey, but it was also very satisfying when I got it right.I found out that the best way to truly learn about something is the wiki/man pages and honestly there no one out there that can explain something better that the manuals.Bspwm on Arch was a succuss and I kept falling deeper in the rabbithole.I stuck with arch for pretty much until now and have had no problems what so ever. I did reinstall arch once and that was because I had to install windows to rescue my Locked ntfs partition.Arch has been stable for quite a while and I don&rsquo;t intend on distro-hopping anytime soon, I tried installing gentoo on virtual machine but quite honestly I think it was too much effort for me, for now atleast, I will probabaly try it out in the future.</p>
 
-<p><img src="../pics/arch-bspwm.png" alt=""  style="width:100%;height:auto;max-width:500px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/arch-bspwm.png" alt=""  style="width:100%;height:auto;max-width:500px" /></p>
 
 <p><em>Bspwm on my Arch Install</em></p>
 
@@ -1816,12 +1816,12 @@ This was ofcource before I learned the True power of Linux, The Terminal.After s
 
 <p>With Arch Came the philosophy of simple and bloat-less software.That&rsquo;s how I started getting my feet wet with suckless software.It started with ST being the terminal and then Dmenu, after that I was using sxiv(Which is not part of the suckless project but still a pretty suckless program to view images) and then once I had gathered All the courage I could, I decided to leave behind Bspwm and start trying out dwm.And so I did.Dwm is now so different compared to bspwm,the only New thing would be that I need to change config.h and apply a couple of patches.I also stopped using lightdm and any other display managers.I maintain my own build of <a href="https://github.com/xemadp/dwm">Dwm</a>.I still haven&rsquo;t made my mind up about my ST build.For now farsi text seems to not be shaped correctly in st even though it is using HarfBuzz for shaping I&rsquo;ve tried more than a dozen fonts but to no avail.Some other terminals were better at this though, so I know it&rsquo;s possible and untill I figure that Out I&rsquo;m not thinking about maintaining my build of st on my github.</p>
 
-<p><img src="../pics/arch-dwm.png" alt=""  style="width:100%;height:auto;max-width:500px" /></p>
+<p><img src="https://xemadp.github.io/blog/pics/arch-dwm.png" alt=""  style="width:100%;height:auto;max-width:500px" /></p>
 
 <p><em>My build of Dwm on Arch</em></p>
 
 <p>You could say I fell for every meme in the Gnu/Linux community,But as I said: the deeper I go into this rabbithole the harder It becomes to look back,I don&rsquo;t think I&rsquo;m gonna go back to a Desktop Environment or any other Windeow manager. At this point,I&rsquo;m pretty satisfied with my setup.
-In order to get this blog up and running I wrote my own wrapper called &ldquo;avst&rdquo;,It takes a number of markdown files as entries and makes a static website with a blog, about page and others,I started this projects about 24 hours ago and so It needs a lot of polishing before publishing it on github,And so this is where I am right now,I will definitely write more about my setup and diffrenet programs and/or projects I hear About so feel free to subscribe to my blog with this <a href="https://www.emadp.xyz/rss.xml">RSS Feed</a> <img src="../pics/rss.jpg" alt=""  style="width:100%;height:auto;max-width:28px" /></p>
+In order to get this blog up and running I wrote my own wrapper called &ldquo;avst&rdquo;,It takes a number of markdown files as entries and makes a static website with a blog, about page and others,I started this projects about 24 hours ago and so It needs a lot of polishing before publishing it on github,And so this is where I am right now,I will definitely write more about my setup and diffrenet programs and/or projects I hear About so feel free to subscribe to my blog with this <a href="https://www.emadp.xyz/rss.xml">RSS Feed</a> <img src="https://xemadp.github.io/blog/pics/rss.jpg" alt=""  style="width:100%;height:auto;max-width:28px" /></p>
 
 <h4>Side note:</h4>
 
