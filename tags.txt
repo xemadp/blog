@@ -1,0 +1,16 @@
+/home/xemadp/Media/Projects/blog/src/linuxjourney.md: linux life minddumps
+/home/xemadp/Media/Projects/blog/src/nethack.md: linux tutorial games
+/home/xemadp/Media/Projects/blog/src/Spanish.md: learning personal life languages
+/home/xemadp/Media/Projects/blog/src/Dalle2.md: AI dalle2 tech
+/home/xemadp/Media/Projects/blog/src/uni.md: minddumps life university
+/home/xemadp/Media/Projects/blog/src/revolution.md: iran protests minddumps life
+/home/xemadp/Media/Projects/blog/src/rev2.md: life iran protests minddumps
+/home/xemadp/Media/Projects/blog/src/pdxdsrs.md: life minddumps humans
+/home/xemadp/Media/Projects/blog/src/IP.md: technology minddumps
+/home/xemadp/Media/Projects/blog/src/Italian.md: learning languages italian latin
+/home/xemadp/Media/Projects/blog/src/PerfectBlue.md: movies life minddumps
+/home/xemadp/Media/Projects/blog/src/compilerI.md: compilers technology minddumps learning tutorial
+/home/xemadp/Media/Projects/blog/src/compilerII.md: compilers technology learning tutorial
+/home/xemadp/Media/Projects/blog/src/compilerIII.md: compilers technology learning tutorial commonlisp
+/home/xemadp/Media/Projects/blog/src/blasphemous.md: games
+/home/xemadp/Media/Projects/blog/src/NeverLetGo.md: music
